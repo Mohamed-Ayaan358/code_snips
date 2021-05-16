@@ -1,2 +1,2 @@
-# code_snips
-A collection of helpful code snippets I have made that can be used for larger progarms
+# Code_snips
+A collection of helpful code snippets I have made that can be used for larger programs.Open for users to contribute to the codebase so as to help each other out.Algorithms,Object detection algorithms,machine learning algorithms to basic templates and short codes to allow for creation of web-page elements this codebase welcomes all and I hope that others will see the use of such a repository.
