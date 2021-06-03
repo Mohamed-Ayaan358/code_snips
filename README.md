@@ -3,3 +3,11 @@ A collection of helpful code snippets I have made that can be used for larger pr
 
 
 If you wish to contribute several code files related to one another please do put these codes into a zip file.
+
+If you need any help in contributing to the repository use these links:-
+
+https://github.com/MarcDiethelm/contributing/blob/master/README.md
+
+https://kbroman.org/github_tutorial/pages/fork.html
+
+https://www.youtube.com/watch?v=yr6IzOGoMsQ
