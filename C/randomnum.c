@@ -6,7 +6,7 @@ int power(int num, int pow)
     int final = num;
     for (int i = 0; i < pow - 1; i++)
     {
-        final = final * 10;
+        final = final * 10; //Used for power determining in multiples of 10 for the number
     }
     return final;
 }
