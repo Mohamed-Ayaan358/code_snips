@@ -1,4 +1,4 @@
-# Code_snips (Made at 2021-05-16)
+<h1><pre>Code_snips                             (Created at 2021-05-16)</pre></h1>
  - A collection of helpful code snippets(maximum of 70-60 lines). I have made that can be used for larger programs. 
 
  - I made this project about 2 months back believing that it would be great for sharing codes with other people.
