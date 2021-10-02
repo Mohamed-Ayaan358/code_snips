@@ -1,5 +1,5 @@
 # Code_snips
- - A collection of helpful code snippets I have made that can be used for larger programs. 
+ - A collection of helpful code snippets(maximum of 70-60 lines). I have made that can be used for larger programs. 
 
  - I made this project about 2 months back believing that it would be great for sharing codes with other people.
  
@@ -23,3 +23,20 @@
  - https://kbroman.org/github_tutorial/pages/fork.html
 
  - https://www.youtube.com/watch?v=yr6IzOGoMsQ
+
+
+
+This might seem that I am trying for a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
+
+
+### Examples of low quailty contributions
+
++ Pull requests that are automated e.g. scripted opening pull requests to remove whitespace / fix typos / optimize images.
+
++ Pull requests that are disruptive e.g. taking someone else's branch/commits and making a pull request.
+
++ Pull requests that are regarded by a project maintainer as a hindrance vs. helping.
+
++ Something that's clearly an attempt to simply +1 your pull request count for October.
+
++ Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
