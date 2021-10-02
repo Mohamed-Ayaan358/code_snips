@@ -1,5 +1,5 @@
 # Code_snips
- - A collection of helpful code snippets I have made that can be used for larger programs. 
+ - A collection of helpful code snippets(maximum of 70-60 lines). I have made that can be used for larger programs. 
 
  - I made this project about 2 months back believing that it would be great for sharing codes with other people.
  
@@ -23,3 +23,7 @@
  - https://kbroman.org/github_tutorial/pages/fork.html
 
  - https://www.youtube.com/watch?v=yr6IzOGoMsQ
+
+
+
+This might seem that i am trying for a low effort repository but i do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
