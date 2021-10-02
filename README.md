@@ -26,4 +26,4 @@
 
 
 
-This might seem that i am trying for a low effort repository but i do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
+This might seem that I am trying for a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
