@@ -1,6 +1,8 @@
-<h1><pre>Code_snips               <pre></h1>
+<h1>Code_snips</h1>
 
 https://api.github.com/repos/Mohamed-Ayaan358/code_snips(Proof of when the repo was made).
+
+It would be great if you could share this repository with others.
 
 NOTE:
 <h2>This might seem that this is a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
