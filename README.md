@@ -1,4 +1,13 @@
 <h1><pre>Code_snips               (Created at 2021-05-16)</pre></h1>
+
+
+
+NOTE:
+<h2>This might seem that this is a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
+Your PR's will be srutanised and will be accepted based on usefullness and if they are not spam in nature, at the moment we are accepting a limited number of issues</h2>
+  
+  
+  
  - A collection of helpful code snippets(maximum of 70-60 lines). I have made that can be used for larger programs. 
 
  - I made this project about 2 months back believing that it would be great for sharing codes with other people.
@@ -23,11 +32,6 @@
  - https://kbroman.org/github_tutorial/pages/fork.html
 
  - https://www.youtube.com/watch?v=yr6IzOGoMsQ
-
-
-NOTE:
-<h2>This might seem that I am trying for a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
-Your PR's will be srutanised and will be accepted based on usefullness, at the moment we are accepting a limited number of issues</h2>
 
 
 ### Examples of low quailty contributions
