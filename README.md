@@ -1,6 +1,6 @@
-<h1><pre>Code_snips               (Created at 2021-05-16)</pre></h1>
+<h1><pre>Code_snips               <pre></h1>
 
-
+https://api.github.com/repos/Mohamed-Ayaan358/code_snips(Proof of when the repo was made).
 
 NOTE:
 <h2>This might seem that this is a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
