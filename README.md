@@ -1,6 +1,6 @@
 <h1>Code_snips</h1>
 
-https://api.github.com/repos/Mohamed-Ayaan358/code_snips(Proof of when the repo was made).
+https://api.github.com/repos/Mohamed-Ayaan358/code_snips (Proof of when the repo was made).
 
 It would be great if you could share this repository with others.
 
