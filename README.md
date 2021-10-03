@@ -18,7 +18,7 @@ Your PR's will be srutanised and will be accepted based on usefullness and if th
   2. The centering of webpages as well as background settings as well animations for web dev
   3. Models for AI/ML repositories
   4. Helpful Python scripts whoch can be conjoined with main codes to accomplish a task.
-  5. You can directly put pull requests than raising an issue.
+  5. Raise issues before pull requests and remember to link the two together
  
  
 
