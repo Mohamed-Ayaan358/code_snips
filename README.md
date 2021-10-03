@@ -25,9 +25,9 @@
  - https://www.youtube.com/watch?v=yr6IzOGoMsQ
 
 
-
-This might seem that I am trying for a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
-Your PR's will be srutanised and will be accepted based on usefullness, at the moment we are accepting a limited number of issues
+NOTE:
+<h2>This might seem that I am trying for a low effort repository but I do believe this can be helpful to others and thought the best way to get more snips is by putting it up here.
+Your PR's will be srutanised and will be accepted based on usefullness, at the moment we are accepting a limited number of issues</h2>
 
 
 ### Examples of low quailty contributions
