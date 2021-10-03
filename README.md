@@ -8,7 +8,7 @@ Your PR's will be srutanised and will be accepted based on usefullness and if th
   
   
   
- - A collection of helpful code snippets(maximum of 70-60 lines). I have made that can be used for larger programs. 
+ - A collection of helpful code snippets(maximum of 40-50 lines). I have made that can be used for larger programs. 
 
  - I made this project about 2 months back believing that it would be great for sharing codes with other people.
  
