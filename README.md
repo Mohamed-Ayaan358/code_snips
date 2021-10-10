@@ -1,29 +1,34 @@
 <h1>Code_snips</h1>
-  
- - A collection of helpful code snippets.I have made that can be used for larger programs. 
+
+ - Uses:-
+ 1. A collection of helpful code snippets.I have made that can be used for larger programs. 
  
- - Open for users to contribute to the codebase so as to help each other out.Algorithms, Object detection algorithms,machine learning algorithms for AI/ML.
- - Basic templates and short codes to allow for creation of web-page elements as well as larger python scripts.
+ 2. Open for users to contribute to the codebase so as to help each other out.Algorithms, Object detection algorithms,machine learning algorithms for AI/ML.
+
+ 3. Basic templates and short codes to allow for creation of web-page elements as well as larger code scripts.
+ 
  - For example:-
  1. The text_to_speech and speech_to_text codes can be used in a website so as to allow hearing impaired individuals to communicate their thoughts.
+ 
  2. This can be inserted into a larger codebase for a larger set of individuals with different disabilities.
+
  3. This could also used in websites so as to add extra functionality and cool features.
-### Parameters (Mandatory) :-
+### Parameters for bounty point allocation (Mandatory) :-
 <hr>
 
-1.If you are submitting an AI/Model then you must specify the efficiency of the models.
+1. If you are submitting an AI/Model then you must specify the efficiency of the models.
 
-2.Length of the code must not be lesser than 20 lines or greater than 200 lines unless explained to the maintainer why the code is in the spirit of this repository.
+2. Length of the code must not be lesser than 20 lines or greater than 200 lines unless explained to the maintainer why the code is in the spirit of this repository.
 
-3.Must include Sufficient comments on your code for others to understand your script.
+3. Must include Sufficient comments on your code for others to understand your script.
 
-4.Also at the end of the file in comments please do indicate the uses of your script.
+4. Also at the end of the file in comments please do indicate the uses of your script.
 
 ### How to contribute:-
 <hr>
 1. Identify and raise an issue or ask to be assigned to a present issue.
 
-2. Fork the project
+2. Fork the project.
 
 3. Perform **git clone** on your fork and perform the changes on your local system.
 
@@ -49,7 +54,13 @@ Note that your PR's will be scrutanised heavily if they follow the parameters an
 
 + Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
 
+### Bounty points(BP):-
+<hr>
 
++ AI/ML -> 2-3 BP
 
++ Python and others-> 1-2 BP
+
++ Web-dev -> 1-2 BP
 
 [Proof of when the repo was made](https://api.github.com/repos/Mohamed-Ayaan358/code_snips)
