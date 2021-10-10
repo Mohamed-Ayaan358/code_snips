@@ -2,11 +2,16 @@
   
  - A collection of helpful code snippets.I have made that can be used for larger programs. 
  
- - Open for users to contribute to the codebase so as to help each other out.Algorithms, Object detection algorithms,machine learning algorithms to basic templates and short codes to allow for creation of web-page elements this codebase welcomes all codes and I hope that others will see the use of such a repository.
-
+ - Open for users to contribute to the codebase so as to help each other out.Algorithms, Object detection algorithms,machine learning algorithms for AI/ML.
+ - Basic templates and short codes to allow for creation of web-page elements as well as larger python scripts.
+ - For example:-
+ 1. The text_to_speech and speech_to_text codes can be used in a website so as to allow hearing impaired individuals to communicate their thoughts.
+ 2. This can be inserted into a larger codebase for a larger set of individuals with different disabilities.
+ 3. This could also used in websites so as to add extra functionality and cool features.
 ### Parameters (Mandatory) :-
 <hr>
-1.If you are submittinga AI/Model then you must specify the efficiency of the models.
+
+1.If you are submitting an AI/Model then you must specify the efficiency of the models.
 
 2.Length of the code must not be lesser than 20 lines or greater than 200 lines unless explained to the maintainer why the code is in the spirit of this repository.
 
