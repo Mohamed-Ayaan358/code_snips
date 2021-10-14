@@ -25,7 +25,8 @@
  2. This can be inserted into a larger codebase for a larger set of individuals with different disabilities.
 
  3. This could also used in websites so as to add extra functionality and cool features.
-### Parameters for bounty point allocation (Mandatory) :-
+
+### Parameters for bounty point allocation (Mandatory rules to be followed) :-
 <hr>
 
 1. If you are submitting an AI/Model then you must specify the efficiency of the models.
@@ -35,22 +36,6 @@
 3. Must include Sufficient comments on your code for others to understand your script.
 
 4. Also at the end of the file in comments please do indicate the uses of your script.
-
-### How to contribute:-
-<hr>
-1. Identify and raise an issue or ask to be assigned to a present issue.
-
-2. Fork the project.
-
-3. Perform **git clone** on your fork and perform the changes on your local system.
-
-4. Enter **git** add your relevant files then enter **git commit -m "You message"**.
-
-5. Finally enter **git push**.
-
-6. Then go to github and press the contribute button to raise a pull request.
-
-7. Wait untill a reviewer sees your code and changes to the code.
 
 ### Examples of low quailty contributions:-
 <hr>
