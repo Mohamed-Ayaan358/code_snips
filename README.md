@@ -57,10 +57,12 @@ Note that your PR's will be scrutanised heavily if they follow the parameters an
 ### Bounty points(BP):-
 <hr>
 
-+ AI/ML -> 2-3 BP
++ AI/ML -> 80-100 BP
 
-+ Python and others-> 1-2 BP
++ Python and others-> 40-70 BP
 
-+ Web-dev -> 1-2 BP
++ Web-dev -> 30-50 BP
+
++ These BP can be altered depending on the code's complexity, length and usefullness
 
 [Proof of when the repo was made](https://api.github.com/repos/Mohamed-Ayaan358/code_snips)
