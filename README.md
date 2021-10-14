@@ -1,6 +1,18 @@
 <h1>Code_snips</h1>
 
- - Uses:-
+### Bounty points(BP):-
+<hr>
+
++ AI/ML -> 80-100 BP
+
++ Python and others-> 40-70 BP
+
++ Web-dev -> 30-50 BP
+
++ These BP can be altered depending on the code's complexity, length and usefullness
+
+### Uses:-
+<hr>
  1. A collection of helpful code snippets.I have made that can be used for larger programs. 
  
  2. Open for users to contribute to the codebase so as to help each other out.Algorithms, Object detection algorithms,machine learning algorithms for AI/ML.
@@ -54,15 +66,5 @@ Note that your PR's will be scrutanised heavily if they follow the parameters an
 
 + Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
 
-### Bounty points(BP):-
-<hr>
-
-+ AI/ML -> 80-100 BP
-
-+ Python and others-> 40-70 BP
-
-+ Web-dev -> 30-50 BP
-
-+ These BP can be altered depending on the code's complexity, length and usefullness
 
 [Proof of when the repo was made](https://api.github.com/repos/Mohamed-Ayaan358/code_snips)
