@@ -41,3 +41,5 @@ function useFetch(url, options = undefined) {
 
     return { isLoading, hasError, error, data };
 }
+
+export default useFetch;
