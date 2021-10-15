@@ -2,6 +2,15 @@
 
 ## Take a look at the [ISSUE #1](https://github.com/acmpesuecc/code_snips/issues/1) before planning to submit your PR.
 
+This repository's aims to accept **beginner friendly** submissions and accepts medium sized scripts of code which can be used elsewhere 
+
+example:-
+
+[Text_to_speech](https://github.com/acmpesuecc/code_snips/blob/main/Python/text_to_speech.py)
+[Speech_to_text](https://github.com/acmpesuecc/code_snips/blob/main/Python/speech_to_text.py)
+
+These particular python codes can be utilised in a larger python code-base that needs these for increasing interactivity on a website or making a personal assistant.
+
 ### Bounty points(BP):-
 <hr>
 
