@@ -1,4 +1,4 @@
-<h1>Code_snips</h1>
+<h1>Code_snips(Cap of 5 pull requests on the entire repository during the boost period.)</h1>
 
 ## Take a look at the [ISSUE #1](https://github.com/acmpesuecc/code_snips/issues/1) before planning to submit your PR.
 
