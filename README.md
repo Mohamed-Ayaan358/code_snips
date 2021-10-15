@@ -2,6 +2,8 @@
 
 ## Take a look at the [ISSUE #1](https://github.com/acmpesuecc/code_snips/issues/1) before planning to submit your PR.
 
+Cap of 5 pull requests on the entire repository during the boost period.
+
 This repository's aims to accept **beginner friendly** submissions and accepts medium sized scripts of code which can be used elsewhere 
 
 example:-
