@@ -14,15 +14,6 @@ example:-
 
 These particular python codes can be utilised in a larger python code-base that needs these for increasing interactivity on a website or making a personal assistant.
 
-### Bounty points(BP):-
-<hr>
-
-+ AI/ML -> 80-100 BP
-
-+ Python and others-> 40-70 BP
-
-+ Web-dev -> 30-50 BP
-
 + These BP can be altered depending on the code's complexity, length and usefullness
 
 ### Uses:-
